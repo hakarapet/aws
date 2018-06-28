@@ -13,7 +13,7 @@
   - Lightsail - Virtual Private Service
   - Batch - Batch computing
 - __Storage__
-  - S3 - Simple Storage Service
+  - [S3](S3.md) - Simple Storage Service
   - EFS - Elastic File System
   - Glacier - data archive
   - Snowball - large amount data center
