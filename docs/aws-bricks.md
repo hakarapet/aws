@@ -81,7 +81,7 @@
   - Data Pipeline
   - Glue - ETL - Extract, Transform, Load
 - __Security Identity & Compliance__
-  - IAM - Identity Access Management
+  - [IAM](IAM.md) - Identity Access Management
   - Cognito - Device Authentication
   - Guard Duty - Monitors Malicious
   - Inspector
